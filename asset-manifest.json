@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/JoeLee-Pro/jleepro/static/css/main.575793e3.css",
+    "main.js": "/JoeLee-Pro/jleepro/static/js/main.ed60d236.js",
+    "static/media/Fullstack.jpg": "/JoeLee-Pro/jleepro/static/media/Fullstack.5be88a71ef23fe3314c9.jpg",
+    "static/media/logo.png": "/JoeLee-Pro/jleepro/static/media/logo.a28b9c71ae8d5e49b42b.png",
+    "index.html": "/JoeLee-Pro/jleepro/index.html",
+    "static/media/close.svg": "/JoeLee-Pro/jleepro/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
+    "static/media/open.svg": "/JoeLee-Pro/jleepro/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
+    "main.575793e3.css.map": "/JoeLee-Pro/jleepro/static/css/main.575793e3.css.map",
+    "main.ed60d236.js.map": "/JoeLee-Pro/jleepro/static/js/main.ed60d236.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.575793e3.css",
+    "static/js/main.ed60d236.js"
+  ]
+}
