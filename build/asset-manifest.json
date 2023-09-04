@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.575793e3.css",
+    "main.js": "/static/js/main.9125717a.js",
+    "static/media/Fullstack.jpg": "/static/media/Fullstack.5be88a71ef23fe3314c9.jpg",
+    "static/media/logo.png": "/static/media/logo.a28b9c71ae8d5e49b42b.png",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
+    "static/media/open.svg": "/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
+    "main.575793e3.css.map": "/static/css/main.575793e3.css.map",
+    "main.9125717a.js.map": "/static/js/main.9125717a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.575793e3.css",
+    "static/js/main.9125717a.js"
+  ]
+}

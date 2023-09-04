@@ -1,0 +1,36 @@
+.home .name {
+  font-size: 48px;
+}
+.home .description {
+  font-size: 22px;
+}
+
+.homeImage {
+  right: 0px;
+}
+
+.home .socialIcons {
+  display: flex;
+  position: absolute;
+  left: 50px;
+  bottom: 50px;
+}
+
+@media (min-width: 750px) {
+  .home .name {
+    font-size: 70px;
+  }
+
+  .home .description {
+    font-size: 32px;
+  }
+
+  .homeImage {
+    bottom: 0;
+    right: 80px;
+  }
+
+  .home .socialIcons {
+    flex-direction: column;
+  }
+}
